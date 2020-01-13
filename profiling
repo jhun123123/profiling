@@ -1,0 +1,46 @@
+run:
+Do you want to create a profile?
+1. Yes
+2. No
+1
+-----------------------------
+Profile number 1
+Enter your name: nef
+Enter your age: 19
+Enter your contact number: 09501909118
+-----------------------------
+What do you want to do next?
+1. Add another profile.
+2. Search profiles.
+3. View all profiles.
+4. Exit.
+2
+Enter name!
+jhun
+-----------------------------
+Profile No. 1
+
+Name: nef
+Age: 19
+Number: 09501909118
+-----------------------------
+-----------------------------
+What do you want to do next?
+1. Add another profile.
+2. Search profiles.
+3. View all profiles.
+4. Exit.
+2
+Enter name!
+nef
+-----------------------------
+Name: nef
+Age: 19
+Number: 09501909118
+-----------------------------
+-----------------------------
+What do you want to do next?
+1. Add another profile.
+2. Search profiles.
+3. View all profiles.
+4. Exit.
